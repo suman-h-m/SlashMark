@@ -1,4 +1,4 @@
-# slashMark
+# SlashMark
 Full stack Web development Intern
 
 Projects Allocated
